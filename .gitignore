@@ -1,0 +1,12 @@
+# Licensed WRDS data stays out of the repo
+private/
+*.zip
+WRDS_*.csv
+Raw_*.csv
+
+# Excel lock and temp files
+~$*
+
+# Windows files
+Thumbs.db
+desktop.ini

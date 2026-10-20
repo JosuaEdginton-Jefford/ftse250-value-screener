@@ -1,0 +1,120 @@
+﻿Rank,Ticker,Company,Sector,Composite score,Rank EV/EBIT,Rank FCF yield,Rank cash conversion,Rank leverage,Rank growth
+1,PRN,Princes Group,Consumer Staples,21.6,17,29,3,7,76
+2,RNK,Rank Group,Consumer Discretionary,23.15,9,15,18,58,44
+3,TRN,Trainline,Consumer Discretionary,25.5,13,22,22,62,24
+4,GFRD,Galliford Try,Industrials,28.35,33,38,31,3,23
+5,AO,AO World,Consumer Discretionary,28.4,29,20,17,28,71
+6,HTG,Hunting,Energy,29.95,37,35,21,26,20
+7,KIE,Kier Group,Industrials,29.95,46,26,11,25,37
+8,YNGA,Young's,Consumer Discretionary,30.05,24,14,16,91,25
+9,VTY,Vistry Group,Consumer Discretionary,31.15,2,12,87,45,34
+10,MGNS,Morgan Sindall Group,Industrials,31.6,14,51,59,5,21
+11,HBR,Harbour Energy,Energy,32.9,1,6,119,46,4
+12,MONY,MONY Group,Consumer Discretionary,32.95,15,33,45,34,61
+13,CURY,Currys,Consumer Discretionary,33.05,28,13,13,66,89
+14,PAF,Pan African Resources,Basic Materials,33.45,10,42,82,23,1
+15,DATA,GlobalData,Industrials,33.6,12,39,36,65,33
+16,DRX,Drax Group,Utilities,34.25,3,17,52,48,115
+17,SMWH,WHSmith,Consumer Discretionary,34.3,31,5,10,97,72
+18,DNLM,Dunelm Group,Consumer Discretionary,36.85,18,30,42,57,70
+19,FGP,FirstGroup,Consumer Discretionary,36.85,63,2,6,53,83
+20,HFD,Halfords,Consumer Discretionary,37.15,65,7,2,60,65
+21,GAMA,Gamma Communications,Telecommunications,38.4,32,49,41,35,31
+22,MOON,Moonpig,Consumer Discretionary,39.15,40,41,14,56,57
+23,QQ,Qinetiq,Industrials,39.85,39,67,4,40,46
+24,MAB,Mitchells & Butlers,Consumer Discretionary,40.4,20,36,37,92,42
+25,INCH,Inchcape,Consumer Discretionary,42,19,31,34,99,69
+26,AEP,AEP Plantations,Consumer Staples,42.2,11,52,86,4,81
+27,DOCS,Dr. Martens,Consumer Discretionary,42.5,51,16,9,68,112
+28,ALFA,Alfa Financial Software,Technology,42.6,44,53,51,21,28
+29,PFD,Premier Foods,Consumer Staples,42.65,22,47,65,38,56
+30,TEP,Telecom Plus,Telecommunications,43,6,18,91,50,110
+31,COST,Costain Group,Industrials,43.05,27,63,38,2,113
+32,WOSG,Watches of Switzerland,Consumer Discretionary,43.5,42,37,26,75,52
+33,BME,B&M,Consumer Discretionary,44.1,54,10,24,98,59
+34,PETS,Pets at Home,Consumer Discretionary,44.15,47,27,23,72,79
+35,FOUR,4imprint,Consumer Discretionary,44.55,35,60,60,11,54
+36,MEGP,ME Group International,Consumer Discretionary,45.5,4,74,83,30,47
+37,WIX,Wickes,Consumer Discretionary,45.95,70,3,7,100,78
+38,SRP,Serco,Industrials,47.85,72,21,15,70,75
+39,RMV,Rightmove,Consumer Discretionary,48.05,38,64,62,29,39
+40,ITV,ITV,Consumer Discretionary,48.65,8,66,63,51,95
+41,ENOG,Energean,Energy,48.7,100,11,1,103,3
+42,HOC,Hochschild Mining,Basic Materials,48.7,26,78,78,32,10
+43,BMY,Bloomsbury Publishing,Consumer Discretionary,49.6,62,58,44,24,41
+44,BOWL,Hollywood Bowl Group,Consumer Discretionary,49.65,34,46,58,85,36
+45,SPI,Spire Healthcare,Health Care,49.75,76,25,5,108,35
+46,KLR,Keller Group,Industrials,49.95,36,62,55,33,77
+47,GEN,Genuit Group,Industrials,50,45,43,29,73,90
+48,MTO,Mitie,Industrials,50.05,66,56,27,61,17
+49,HIK,Hikma Pharmaceuticals,Health Care,51,21,81,56,67,32
+50,JSG,Johnson Service Group,Industrials,51.15,30,57,64,86,22
+51,TW,Taylor Wimpey,Consumer Discretionary,54,7,89,85,17,101
+52,BAG,A.G. Barr,Consumer Staples,54.05,25,99,81,20,26
+53,BCG,Baltic Classifieds,Consumer Discretionary,54.35,68,65,49,42,16
+54,FAN,Volution Group,Industrials,55.6,75,55,32,77,14
+55,JDW,Wetherspoons,Consumer Discretionary,56.15,79,19,30,106,58
+56,SSPG,SSP Group,Consumer Discretionary,56.5,58,4,119,90,8
+57,BYIT,Bytes Technology Group,Technology,56.95,69,77,54,8,50
+58,TRST,Trustpilot,Technology,57,108,84,8,10,5
+59,COA,Coats Group,Industrials,57.2,41,45,50,93,97
+60,BREE,Breedon Group,Industrials,57.45,55,44,69,79,43
+61,ATYM,Atalaya Mining,Basic Materials,57.95,80,61,68,14,30
+62,BWY,Bellway,Consumer Discretionary,58.9,16,83,89,31,109
+63,BKG,Berkeley Group Holdings,Consumer Discretionary,59.45,5,119,84,12,96
+64,GFTU,Grafton Group,Industrials,59.95,48,34,119,39,74
+65,JMAT,Johnson Matthey,Basic Materials,60.2,59,50,39,78,105
+66,ELM,Elementis,Basic Materials,60.7,50,93,12,63,106
+67,WIZZ,Wizz Air,Consumer Discretionary,61.2,119,1,40,107,12
+68,CKN,Clarkson,Industrials,62.15,71,94,46,1,80
+69,GNC,Greencore,Consumer Staples,62.45,82,76,28,43,68
+70,DOM,Domino's Pizza,Consumer Discretionary,63.4,64,40,61,104,64
+71,ENT,Entain,Consumer Discretionary,63.4,49,24,119,96,45
+72,MGAM,Morgan Advanced Materials,Industrials,65.45,43,69,70,76,99
+73,CWK,Cranswick,Consumer Staples,65.7,57,92,76,44,38
+74,PSN,Persimmon,Consumer Discretionary,65.9,23,109,96,27,85
+75,GRG,Greggs,Consumer Discretionary,66.6,56,95,80,55,18
+76,EWG,Eurowag,Industrials,67,60,23,119,71,88
+77,HILS,Hill & Smith,Industrials,68.55,89,91,43,36,51
+78,BOY,Bodycote,Industrials,69.55,81,90,35,47,87
+79,RS1,RS Group,Industrials,69.8,84,72,47,54,91
+80,TPK,Travis Perkins,Industrials,70.5,74,9,119,83,98
+81,SCT,Softcat,Technology,70.95,94,98,67,13,29
+82,KNOS,Kainos,Technology,71.45,101,96,48,9,62
+83,GDWN,Goodwin,Industrials,72.25,109,86,20,15,118
+84,RHIM,RHI Magnesita,Industrials,72.45,61,28,119,101,82
+85,VLX,Volex,Industrials,72.7,78,104,74,52,7
+86,ROR,Rotork,Industrials,73.25,95,101,57,22,48
+87,CVSG,CVS Group,Health Care,73.75,98,82,25,89,55
+88,DSCV,discoverIE,Industrials,73.9,91,85,33,69,84
+89,VCT,Victrex,Basic Materials,73.9,87,75,66,37,103
+90,PAGE,Michael Page,Industrials,75.05,104,79,19,64,107
+91,TATE,Tate & Lyle,Consumer Staples,75.35,67,87,73,84,63
+92,APN,Applied Nutrition,Consumer Staples,76,97,105,88,19,2
+93,VSVS,Vesuvius,Industrials,76.5,53,97,71,81,100
+94,ZIG,Zigup,Industrials,78.65,52,113,94,80,40
+95,RSW,Renishaw,Industrials,78.7,102,106,77,6,53
+96,PPH,PPHE Hotel Group,Consumer Discretionary,78.8,92,54,95,112,19
+97,RPI,Raspberry Pi Holdings,Technology,80.75,107,107,93,18,6
+98,ATG,Auction Technology Group,Technology,81,103,48,119,88,11
+99,GNS,Genus,Health Care,81.85,88,88,90,41,93
+100,OXIG,Oxford Instruments,Industrials,82,99,102,75,16,94
+101,MNDI,Mondi,Industrials,83.85,85,73,79,94,102
+102,HFG,Hilton Food Group,Consumer Staples,85.5,86,115,53,87,73
+103,FRAS,Frasers Group,Consumer Discretionary,87.5,73,111,72,95,92
+104,HAS,Hays,Industrials,87.55,90,70,119,59,104
+105,CHG,Chemring Group,Industrials,88.25,96,108,92,49,67
+106,HTWS,Helios Towers,Telecommunications,88.5,77,100,119,102,13
+107,NCC,NCC Group,Technology,90,119,32,119,74,114
+108,IWG,International Workplace Group,Industrials,90.15,106,59,119,114,27
+109,ASC,ASOS,Consumer Discretionary,90.95,119,8,119,119,116
+110,PNN,Pennon Group,Utilities,94.4,93,117,97,113,9
+111,AVON,Avon Technologies,Industrials,99.35,105,103,119,82,60
+112,XPP,XP Power,Industrials,102,110,71,119,111,108
+113,SAGA,Saga,Consumer Discretionary,102.8,83,119,119,105,86
+114,THG,THG,Consumer Discretionary,103.95,119,68,119,109,111
+115,CWR,Ceres Power,Energy,106.85,119,112,119,119,15
+116,OCDO,Ocado Group,Consumer Staples,107.7,119,80,119,110,117
+117,OXB,Oxford Biomedica,Health Care,109.75,119,110,119,119,49
+118,ONT,Oxford Nanopore Technologies,Health Care,112.95,119,116,119,119,66
+119,ROSE,Rosebank Industries,Industrials,117.75,119,114,119,119,119
