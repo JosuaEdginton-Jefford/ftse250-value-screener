@@ -57,6 +57,11 @@ of England spot rates on 30 September 2026. Under the data licence only ranks
 are published here; [the template workbook](screener/FTSE250_Value_Screener_template.xlsx)
 holds every formula with the data removed.
 
+This is a point-in-time screen, not a live feed. Fundamentals come from each
+company's latest reported fiscal year, which can be up to 18 months older than
+the price date, so refreshing prices alone would imply a currency the underlying
+data doesn't have.
+
 ### Known limitations
 
 - Princes Group ranks 3rd on cash conversion because its net income is small
