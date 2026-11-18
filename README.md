@@ -1,8 +1,9 @@
 # FTSE 250 Value Screen
 
 A ranked value screen of 119 non-financial FTSE 250 companies, built in Excel on
-Compustat Global data from WRDS. Investment theses and 12-month price targets
-for the top three are in progress.
+Compustat Global data from WRDS, with investment memos and price targets for
+the top three. Princes Group is published; Rank Group and Trainline are in
+progress.
 
 Prices as at 30 September 2026. Constituents as at the 9 October 2026 review.
 
@@ -25,6 +26,17 @@ is better (weighted average of the five factor ranks).
 | 10 | Morgan Sindall Group | MGNS | Industrials | 14 | 51 | 59 | 5 | 21 | 31.60 |
 
 Full ranking: [output/screen_2026-09-30.csv](output/screen_2026-09-30.csv)
+
+## Price targets
+
+| Company | Memo date | Rating | Price then | Target | Upside | Memo |
+|---|---|---|---:|---:|---:|---|
+| Princes Group (PRN) | 16 Nov 2026 | Hold | 387.5p | 418p | +8% | [PDF](theses/PRN_Princes-Group_2026-11-16.pdf) |
+| Rank Group (RNK) | | | | | | In progress |
+| Trainline (TRN) | | | | | | In progress |
+
+Rating rule: Buy above +20% upside to target, Sell below -15%, Hold in between.
+Every target and its outcome: [price-targets.md](price-targets.md)
 
 ## Method
 
@@ -64,8 +76,11 @@ data doesn't have.
 
 ### Known limitations
 
-- Princes Group ranks 3rd on cash conversion because its net income is small
-  after its recent IPO, which inflates the ratio and lifts its composite.
+- Princes Group ranks 3rd on cash conversion because its "three years" of
+  accounts cover only 33 months around a change of year-end and its IPO.
+  Corrected from the published accounts, it would rank about 17th rather than
+  1st. The [memo](theses/PRN_Princes-Group_2026-11-16.pdf) sets out the
+  adjustments.
 - Compustat's GICS sector disagrees with ICB for Eurowag, IWG and Saga; ICB is
   used throughout.
 
